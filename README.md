@@ -37,6 +37,11 @@ In this deliverable, the summary statistics for the Suspension Coil data were ca
 
 _Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?_
 
+Examining the total summary data, the current manufacturing data does meet the specification for all manufacturing lots in total. The specification indicates that the variance must not exceed 100 PSI, and the total summary indicates a variance of 62. 
+
+Upon examining each lots individually, although lot 1 and lot 2 show little variance at all (bringing down the average for the total), lot 3 see’s a variance of 170 PSI. This does not meen the design specification as it exceeds the maximum variance by 70 PSI. 
+
+
 ## T-Tests on Suspension Coils
 
 
