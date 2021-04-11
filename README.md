@@ -1,11 +1,15 @@
 # MechaCar Statistical Analysis
 
 ## Linear Regression to Predict MPG
-<br>
-_Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?_
+_(Deliverable 1)_
 
+
+<br>
+This analysis was performed on a dataset contains 50 mpg (miles per gallon) test results for 50 prototype MechaCars. In the following deliverable, a linear model was designed to predict the mpg of MechaCar prototypes using vehicle length, vehicle weight, spoiler angle, drivetrain, and ground clearance as dependent variables. 
+<br>
 <img align="right" src = "https://github.com/hollyouellette/MechaCar_Statistical_Analysis/blob/main/analysis/Linear-Regression-to-Predict-MPG.png" width=500>
 
+_Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?_
 
 - vehicle_length & ground clearance
 
