@@ -51,14 +51,14 @@ In this deliverable, the t.test() function was first used to determine if the PS
 <br><br>
 This data confirms the null hypothesis, indicating that the PSI across all manufacturing lots is not statistically different from the population mean. 
 <br><br><br><br><br>
-Next, the same t.test() was performed for each lot as a subset of the manufacturing data.
+Next, the same t.test() was performed for each lot as a subset of the manufacturing data:
 <br><br><br>
 
-<img align="left" src="https://github.com/hollyouellette/MechaCar_Statistical_Analysis/blob/main/analysis/lot1.png" width=500>
-<img align="left" src="https://github.com/hollyouellette/MechaCar_Statistical_Analysis/blob/main/analysis/lot2.png" width=500>
-<img src="https://github.com/hollyouellette/MechaCar_Statistical_Analysis/blob/main/analysis/lot3.png" width=500><br><br>
+<img src="https://github.com/hollyouellette/MechaCar_Statistical_Analysis/blob/main/analysis/lot1.png" width=700>
+<img src="https://github.com/hollyouellette/MechaCar_Statistical_Analysis/blob/main/analysis/lot2.png" width=700>
+<img src="https://github.com/hollyouellette/MechaCar_Statistical_Analysis/blob/main/analysis/lot3.png" width=700><br>
 
-<br><br> These tests indicate that in for Lot 1 and Lot 2, there is no statistical difference between the Lot’s PSI and that of the population mean. <br><br>
+These tests indicate that in for Lot 1 and Lot 2, there is no statistical difference between the Lot’s PSI and that of the population mean. <br><br>
 
 In the case of Lot 3, however, the p-value of 0.042 indicates that there we have failed to reject the null hypothesis, and as such, the PSI of this lot is statically different from the population mean . <br><br>
 
