@@ -1,9 +1,11 @@
 # MechaCar Statistical Analysis
 
 ## Linear Regression to Predict MPG
+<br><br>
+_Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?_
 
-<img align=center src = "https://github.com/hollyouellette/MechaCar_Statistical_Analysis/blob/main/analysis/Linear-Regression-to-Predict-MPG.png">
-  _Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?_
+<img align="left" src = "https://github.com/hollyouellette/MechaCar_Statistical_Analysis/blob/main/analysis/Linear-Regression-to-Predict-MPG.png" width=500>
+
 
 - vehicle_length & ground clearance
 
