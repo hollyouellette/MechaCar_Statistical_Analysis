@@ -6,9 +6,8 @@ _(Deliverable 1)_
 
 <br>
 This analysis was performed on a dataset contains 50 mpg (miles per gallon) test results for 50 prototype MechaCars. In the following deliverable, a linear model was designed to predict the mpg of MechaCar prototypes using vehicle length, vehicle weight, spoiler angle, drivetrain, and ground clearance as dependent variables. 
-<br>
+<br><br>
 <img align="right" src = "https://github.com/hollyouellette/MechaCar_Statistical_Analysis/blob/main/analysis/Linear-Regression-to-Predict-MPG.png" width=500>
-
 _Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?_
 
 As demonstrated by the p-values in the linear regression, vehicle length and ground clearance have a statistically significant variance to the mpg values in the dataset.
@@ -16,6 +15,7 @@ As demonstrated by the p-values in the linear regression, vehicle length and gro
  _Is the slope of the linear model considered to be zero? Why or why not?_
 
 The slope of the linear model is not considered to be zero. The reason for this is that that the statistically significant relationship between vehicle length and ground clearance (independent variables) and mpg (dependent variable) indicates that the slope will have a value > 0.
+ 
  _Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?_
   
 Based on the R-Squared value of 0.7149, we can expect that there is a high probability that this linear model will predict mpg of MechaCar prototypes effectively. 
