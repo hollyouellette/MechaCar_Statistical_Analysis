@@ -63,17 +63,36 @@ These tests indicate that in for Lot 1 and Lot 2, there is no statistical differ
 In the case of Lot 3, however, the p-value of 0.042 indicates that there we have failed to reject the null hypothesis, and as such, the PSI of this lot is statically different from the population mean . <br><br>
 
 
-
-
-<br><br>
-
-
+<br>
 
 ## Study Design: MechaCar vs Competition
+_(Deliverable 4)_
 
-Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
-In your description, address the following questions:
-What metric or metrics are you going to test?
-What is the null hypothesis or alternative hypothesis?
-What statistical test would you use to test the hypothesis? And why?
-What data is needed to run the statistical test?
+The statistical study that I would perform to measure MechaCar against the competition is based around variables that are of assumed value to the buyer in the relation to the cost of the vehicle.
+
+The intention is to discover whether, in comparison to the competition, a similar increase in the assumed “value-add” variables will result in a less significant increase in the cost of the car. This will prove that the MechaCar is of greater value than the competition. 
+
+**Metrics to be Tested: **
+
+In this study, we will examine the cost of the car in relation to it’s fuel efficiency, maintenance costs and safety rating. 
+
+**Hypotheses:**
+
+Null Hypothesis: there is no statistical relationship between fuel efficiency, maintenance costs and the cost of the car.  
+
+Alternative Hypothesis: there is a statistical relationship between the fuel efficiency, maintenance costs and the cost of the car. 
+
+**Statistical Tests:**
+
+To test the hypothesis, linear regression would be performed on the dataset to determine if certain variable can be used to predict the cost of the car.
+
+**Data needed to run the statistical test:**
+
+The following data will be needed from both the competition and MechaCar:
+ 1.	Car Type
+ 2.	Cost of Vehicle
+ 3.	Safety Rating
+ 4.	Cost of Maintenance
+ 5.	Fuel Efficiency 
+
+
