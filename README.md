@@ -68,11 +68,15 @@ In the case of Lot 3, however, the p-value of 0.042 indicates that there we have
 ## Study Design: MechaCar vs Competition
 _(Deliverable 4)_
 
+
 The statistical study that I would perform to measure MechaCar against the competition is based around variables that are of assumed value to the buyer in the relation to the cost of the vehicle.
 
 The intention is to discover whether, in comparison to the competition, a similar increase in the assumed “value-add” variables will result in a less significant increase in the cost of the car. This will prove that the MechaCar is of greater value than the competition. 
+<br><br>
+
 
 **Metrics to be Tested: **
+
 
 In this study, we will examine the cost of the car in relation to it’s fuel efficiency, maintenance costs and safety rating. 
 
