@@ -41,4 +41,4 @@ t.test(suspension_data$PSI,mu=mean(1500))
 
 t.test(subset(suspension_data,Manufacturing_Lot=="Lot1")$PSI,mu=mean(1500))
 t.test(subset(suspension_data,Manufacturing_Lot=="Lot2")$PSI,mu=mean(1500))
-t.test(subset(suspension_data,Manufacturing_Lot=="Lot3")$PSI,mu=mean(total_summary$Mean))
+t.test(subset(suspension_data,Manufacturing_Lot=="Lot3")$PSI,mu=mean(1500))
